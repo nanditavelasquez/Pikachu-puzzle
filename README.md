@@ -20,6 +20,3 @@
 ## Uso
 
 1. *Resolver:* Arrastra y suelta las piezas del rompecabezas a sus posiciones correctas.
-
-
-
